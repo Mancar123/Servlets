@@ -4,26 +4,17 @@
   <meta charset="UTF-8">
   <title>Stampede Case</title>
   <style>
-    html, body {
       margin: 0;
-      padding: 0;
-      height: 100%;
       font-family: Arial, sans-serif;
-    }
-
-    body {
-      background-image: url('https://c0.wallpaperflare.com/preview/454/536/996/lights-music-concert-worship.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      background-attachment: fixed;
       color: white;
     }
 
     /* Simple Navbar */
     .navbar {
       background-color: rgba(0, 0, 0, 0.7);
-      padding: 10px 20px;
       display: flex;
       gap: 20px;
     }
@@ -54,9 +45,6 @@
 </div>
 
 <div class="content">
-  <h1 style="color: white;">Stampede Case Overview</h1>
-
-
   <p>A tragic stampede occurred</p>
 </div>
 
